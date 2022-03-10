@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tegohsx
+- 🌱 I’m currently learning NodeJS
