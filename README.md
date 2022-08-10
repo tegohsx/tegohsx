@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @tegohsx
-- 🌱 I’m currently learning NodeJS
+- 👋 Hi, I’m @tegohsx (Teguh Santoso)
+- 👍 I'm a PHP programmer
+- 🌱 I’m currently learning NodeJS, Laravel.
